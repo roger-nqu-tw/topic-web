@@ -5,7 +5,7 @@
 .container{
     width: 100%;
     height: 100vh;
-    background-image: url(grapgh/image.jpg);
+    background-image: url(graph/image.jpg);
     background-size: cover;
     background-position: center;
     padding-left: 5%;
